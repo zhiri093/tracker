@@ -51,3 +51,7 @@ api-js/src/locale/_build
 
 # Python client ignores
 clients/python/docs/build
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
